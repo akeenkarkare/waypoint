@@ -13,6 +13,7 @@ dependencies = [
     "cognee>=0.1.40",
     "anthropic>=0.40",
     "fastembed>=0.4",
+    "faster-whisper>=1.0",
 ]
 
 [tool.uv]
