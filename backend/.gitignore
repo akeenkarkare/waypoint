@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/media/
+data/cognee/
+.cognee_system/
+cognee_system/
+*.db
+*.sqlite
+.pytest_cache/
